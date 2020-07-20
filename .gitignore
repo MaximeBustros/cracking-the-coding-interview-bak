@@ -1,0 +1,8 @@
+# Ignore files in bin and settings folders
+bin/
+.settings/
+
+# ignore .project and .classpath files
+*.project
+*.classpath
+
